@@ -1,6 +1,6 @@
 # HelloOne
 Training
 
-Hi, everyone, this is mi
-first chenge in Git world !!
+Hi, everyone, this is my
+first change in Git world !!
 Thank You.
